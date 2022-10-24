@@ -1,0 +1,90 @@
+Exo 1:
+# Set the variable brian on line 3!
+brian = "Hello life!"
+
+Exo 2:
+# Assign your variables below, each on its own line!
+caesar = "Graham"
+praline = "John"
+viking = "Teresa"
+
+# Put your variables above this line
+
+print caesar
+print praline
+print viking
+
+Exo 3:
+# The string below is broken. Fix it using the escape backslash!
+
+'This isn\'t flying, this is falling with style!'
+
+Exo 4:
+"""
+The string "PYTHON" has six characters,
+numbered 0 to 5, as shown below:
+
++---+---+---+---+---+---+
+| P | Y | T | H | O | N |
++---+---+---+---+---+---+
+  0   1   2   3   4   5
+
+So if you wanted "Y", you could just type
+"PYTHON"[1] (always start counting from 0!)
+"""
+fifth_letter = "MONTY"[4]
+
+print fifth_letter
+
+Exo 5:
+parrot = "Norwegian Blue"
+print len(parrot)
+
+Exo 6:
+parrot = "Norwegian Blue"
+
+print parrot.lower()
+
+Exo 7:
+parrot = "norwegian blue"
+
+print parrot.upper()
+
+Exo 8:
+pi = 3.14
+print str(pi)
+
+Exo 9:
+ministry = "The Ministry of Silly Walks"
+
+print len(ministry)
+print ministry.upper()
+
+Exo 10:
+print "Monty Python"
+
+Exo 11:
+he_machine_goes = "Ping!"
+print the_machine_goes 
+
+Exo 12:
+print "Spam " + "and " + "eggs"
+
+Exo 13:
+print "The value of pi is around " + str(3.14)
+
+Exo 14:
+print "Let's not go to %s. 'Tis a silly %s." % (string_1, string_2)
+
+Exo 15:
+name = "Alex"
+quest = "Teaching Python"
+color = "Blue"
+
+print "Ah, so your name is %s, your quest is %s, " \
+"and your favorite color is %s." % (name, quest, color)
+
+Exo 16:
+my_string ="test"
+print len(my_string)
+print my_string.upper()
